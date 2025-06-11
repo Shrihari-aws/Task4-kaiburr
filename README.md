@@ -12,7 +12,7 @@ Using GitHub Secrets:
 2. DOCKER_PASSWORD - access token
 
 Docker Image:
-- shrihari1902/kaiburr-task1-app
+- shrihari1902/kaiburr-task4-app
 
 Screenshots:
 *(Add your screenshots with your name + date/time here)*
